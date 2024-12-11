@@ -1,7 +1,7 @@
 ![logo](https://github.com/SUBHNAKAR765/SUBHNAKAR765/blob/main/Add%20a%20heading.png)
 
-<h1 align="center">Hi 👋, I'm Subhankar Sahoo</h1>
-<h3 align="center">A Software Enthuasist and web Developer .</h3>
+<h1 align="center">Hello!! 👋, I'm Subhankar Sahoo</h1>
+<h3 align="center">A Software and web Developing Enthuasist .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhnakar765&label=Profile%20views&color=0e75b6&style=flat" alt="subhnakar765" /> </p>
 
