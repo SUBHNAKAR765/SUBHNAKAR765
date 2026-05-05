@@ -32,9 +32,9 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,bootstrap,nodejs,mongodb,mysql,python,git,django,angular" />
 </p>
 
-<p style="display:flex; flex-wrap:wrap; gap:20px;">
+<p style="display:flex; gap:50px; align-items:center; flex-wrap:wrap;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=subhnakar765&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subhnakar765&layout=compact&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subhnakar765&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhnakar765&theme=tokyonight" alt="subhnakar765" /></p>
