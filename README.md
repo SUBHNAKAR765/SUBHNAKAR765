@@ -34,11 +34,11 @@
 <p style="display:flex; gap:20px;">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=subhnakar765&show_icons=true&theme=tokyonight" 
-    style="height:200px; width:auto;"
+    style="width:48%; height:200px;"
   />
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subhnakar765&layout=compact&theme=tokyonight" 
-    style="height:200px; width:auto;"
+    style="width:48%; height:200px;"
   />
 </p>
 
