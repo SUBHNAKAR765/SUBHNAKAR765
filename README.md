@@ -38,7 +38,7 @@
   /> &nbsp
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subhnakar765&layout=compact&theme=tokyonight" 
-    style="width:48%; height:150px;"
+    style="width:48%; height:180px;"
   />
 </p>
 
