@@ -31,14 +31,14 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,bootstrap,nodejs,mongodb,mysql,python,git,django,angular" />
 </p>
 
-<p style="display:flex; gap:10px; align-items:stretch;">
+<p style="display:flex; gap:20px;">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=subhnakar765&show_icons=true&theme=tokyonight" 
-    style="height:200px;"
-  />  &nbsp &nbsp
+    style="height:200px; width:auto;"
+  />
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subhnakar765&layout=compact&theme=tokyonight" 
-    style="height:200px;"
+    style="height:200px; width:auto;"
   />
 </p>
 
