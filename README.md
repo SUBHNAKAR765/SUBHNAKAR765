@@ -35,7 +35,7 @@
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=subhnakar765&show_icons=true&theme=tokyonight" 
     style="height:200px;"
-  />  &nbsp
+  />  &nbsp &nbsp
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subhnakar765&layout=compact&theme=tokyonight" 
     style="height:200px;"
